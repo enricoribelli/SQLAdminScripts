@@ -1,0 +1,1 @@
+EXEC sp_MSforeachtable 'ALTER INDEX ALL ON ? REORGANIZE'
